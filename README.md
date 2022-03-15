@@ -1,3 +1,3 @@
 # Synheatmodel
-This is a synheatmodel rewirte in JuMP platform which is proposed by Grossmann. <br>
-This model is bulit based on a stagewise superstructure and can be used for design a large scale heat exchangers network.
+This is a synheat model rewrite in the JuMP platform which is proposed by Grossmann.
+This model is built based on a stagewise superstructure and can be used to design a large-scale heat exchangers network.
